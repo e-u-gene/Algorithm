@@ -1,6 +1,6 @@
-package programmers.ch01;
+package programmers.level00;
 
-public class Q1 {
+public class ArrayAverage {
 //	정수 배열 numbers가 매개변수로 주어질때, numbers원소의 평균값 return
 //	0<= numbers의 원소 <= 1000
 //	1<= numbers의 길이 <= 100
