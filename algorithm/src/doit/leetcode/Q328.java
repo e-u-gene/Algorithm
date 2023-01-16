@@ -17,7 +17,7 @@ public class Q328 {
 			this.next = next;
 		}
 	}
-
+s
 	class Solution {
 		public ListNode oddEvenList(ListNode head) {
 			
